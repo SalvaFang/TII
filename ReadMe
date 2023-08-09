@@ -1,3 +1,4 @@
+Image Fusion via Mutual Information Maximization for Semantic Segmentation in Autonomous Vehicles
 Code will come soon.
 
 图像融合结果的评估使用https://github.com/AiqingFang/Objective-evaluation-for-image-fusion，折线图可视化使用合肥工业大学刘羽的MFIF代码。
